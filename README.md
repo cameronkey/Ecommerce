@@ -1,5 +1,7 @@
 # Ecommerce
 
+*Personal Project*
+
 Developed a Ecommerce home page, inspired by "Carphone Warehouse". 
 
 V1.Features:
@@ -11,3 +13,11 @@ Future development:
 - Add user accounts and login form.
 - Check out functionality.
 - Individual product pages that show: product description/different colours of product/product details/add to basket functionality
+
+Software Used:
+- HTML
+- CSS
+- JavaScript
+- jQuery
+
+
